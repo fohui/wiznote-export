@@ -1,0 +1,26 @@
+README.md
+  s_ea411cf8d9c9bb::t_90e132f8f80c21 69
+  s_ea411cf8d9c9bb::t_16d98c60643cad 66,68
+  h_ad54fc85cce13f 67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7e6fff416e6ad0b9345496adcd36c069bc318d8d",
+  "prompts": {},
+  "humans": {
+    "h_ad54fc85cce13f": {
+      "author": "hfohui <huangfohui1@codemao.cn>"
+    }
+  },
+  "sessions": {
+    "s_ea411cf8d9c9bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18768-bed8-7a53-9f01-84d94782f80f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "hfohui <huangfohui1@codemao.cn>"
+    }
+  }
+}

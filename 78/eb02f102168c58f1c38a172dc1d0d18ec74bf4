@@ -1,0 +1,19 @@
+wiznote_export.py
+  s_a37b9115a83289::t_ddb43be9c7a993 1-234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "78eb02f102168c58f1c38a172dc1d0d18ec74bf4",
+  "prompts": {},
+  "sessions": {
+    "s_a37b9115a83289": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18af1-a8b6-7eb0-8cf1-6e9a96d8a04a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "hfohui <huangfohui1@codemao.cn>"
+    }
+  }
+}
